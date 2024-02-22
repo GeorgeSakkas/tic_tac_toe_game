@@ -130,6 +130,3 @@ play_the_game(board)
 
 
 
-
-
-
