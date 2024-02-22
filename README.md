@@ -1,2 +1,2 @@
-# tic_tac_toe_game.py
+# Tic tac toe game
 AI playing tic tac toe against player (Using minimax)
