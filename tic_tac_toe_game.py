@@ -120,7 +120,7 @@ board=[
 #Play the game!
 play_the_game(board)
 
-112
+
 
 
 
