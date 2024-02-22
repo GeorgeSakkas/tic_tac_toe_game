@@ -119,4 +119,3 @@ board=[
 
 #Play the game!
 play_the_game(board)
-o steve einai malakas
